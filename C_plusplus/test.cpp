@@ -8,6 +8,7 @@ int main() {
     cout<<a<<endl;
     int * p;
     p = &a;
-    cout<<p<<endl;
+    //cout<<p<<endl;
+    
 return 0;
 }
